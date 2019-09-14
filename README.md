@@ -8,4 +8,5 @@ General workflow of project is :
 4. predict on test data
 
 
-take a 250 paragraph from 
+take a 250 paragraph from Arthur Conan Doyle  or Herman Melville or  Jane Austen
+and save in it in a .txt file and pass it as a command line argument to the lab2.py file
