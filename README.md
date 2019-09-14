@@ -6,3 +6,6 @@ General workflow of project is :
 2. save the classifier in text file
 3. recreate the tree from text file 
 4. predict on test data
+
+
+take a 250 paragraph from 
